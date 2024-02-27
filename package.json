@@ -1,0 +1,8 @@
+{
+  "name": "node-zenith",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rockyhaque/node-zenith.git",
+  "author": "Rocky Haque <rockyhaque99@gmail.com>",
+  "license": "MIT"
+}
